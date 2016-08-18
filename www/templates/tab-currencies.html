@@ -1,0 +1,10 @@
+<ion-view view-title="Currencies list - Last Update: {{date}}">
+  <ion-content>
+    <ion-list>
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="currency in currencies" type="item-text-wrap" href="#/tab/currencies/{{currency}}">
+        <h2><b>{{currency}}</b></h2>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
