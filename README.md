@@ -29,7 +29,7 @@ $ npm install -g ionic
 ```sh
 $ ionic serve
 ```
-6. The app should open in a random localhost port window in your default browser
+The app should open in a random localhost port window in your default browser
 
 
 
