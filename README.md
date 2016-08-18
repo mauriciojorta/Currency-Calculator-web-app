@@ -15,7 +15,7 @@ A currency calculator web app made on bootstrap and Ionic framework. Part of a l
 
 ## Testing the app
 
-1. Install Ionic in your system.
+Install Ionic in your system.
 
 ```sh
 $ npm install -g ionic
