@@ -24,7 +24,13 @@ $ npm install -g ionic
 2. Clone, extract and run on your localhost the [X-rate scraper server](https://github.com/mauriciojorta/X-rates-scraper-server) (you'll find the instruction in its repo).
 3. Wait for the server to update all currencies (it should take around a minute).
 4. Clone and extract this repo. Move inside it.
-5. Start the app with this command:
+6. Enter this command to install all required dependencies:
+
+```sh
+$ npm install
+```
+
+Start the app with this command:
 
 ```sh
 $ ionic serve
