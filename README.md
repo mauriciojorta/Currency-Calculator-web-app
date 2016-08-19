@@ -1,6 +1,6 @@
 # Currency calculator
 
-A currency calculator web app made on bootstrap and Ionic framework. Part of a little server - client experiment along the [X-rate scraper server](https://github.com/mauriciojorta/X-rates-scraper-server).
+A currency calculator web app made on bootstrap and Ionic framework. Part of a little server - client experiment along the [X-rates scraper server](https://github.com/mauriciojorta/X-rates-scraper-server).
 
 ## Features
 
@@ -21,7 +21,7 @@ Install Ionic in your system.
 $ npm install -g ionic
 ```
 
-2. Clone, extract and run on your localhost the [X-rate scraper server](https://github.com/mauriciojorta/X-rates-scraper-server) (you'll find the instruction in its repo).
+2. Clone, extract and run on your localhost the [X-rates scraper server](https://github.com/mauriciojorta/X-rates-scraper-server) (you'll find the instruction in its repo).
 3. Wait for the server to update all currencies (it should take around a minute).
 4. Clone and extract this repo. Move inside it.
 6. Enter this command to install all required dependencies:
